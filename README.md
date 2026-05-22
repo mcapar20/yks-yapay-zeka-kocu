@@ -1,6 +1,6 @@
 # 🚀 YKS Mikro Analiz & Yapay Zeka Koçluk Platformu
 
-Bu proje, Yükseköğretim Kurumları Sınavı'na (YKS) hazırlanan öğrenciler için geliştirilmiş, **Yerel Yapay Zeka (Ollama - Llama 3)** tarafından desteklenen, tamamen çevrimdışı ve gizlilik odaklı bir gelişim takip ve analiz platformudur.
+Bu proje, Yükseköğretim Kurumları Sınavı'na (YKS) hazırlanan öğrenciler için geliştirilmiş, **Yerel Yapay Zeka (Ollama - Llama 3)** tarafından desteklenen, tamamen çevrimdışı ve gizlilik odaklı bir gelişim takip ve analiz platformudur...
 
 ## 🎯 Özellikler
 
